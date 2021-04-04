@@ -1,0 +1,167 @@
+*{
+    font-family: sans-serif;
+}
+
+
+h3{ 
+ font-size: 1em;
+ margin-left: 1%;
+}
+
+h2{
+    text-decoration: underline;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+
+.header{
+    width: 100%;
+    height: 7%;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    background-color: rgb(68, 64, 64);
+}
+
+.footer {
+    position: absolute;
+    top: 550%;
+    left: 0%;
+    background-color: rgb(68, 64, 64);
+    width: 100%;
+    height: 5%;
+}
+
+.footer_text{
+    position: absolute;
+    top: -20%;
+    left: 45%;
+    color: white;
+}
+
+.first{
+    margin-top: 5%;
+}
+
+.header_text{
+    position: absolute;
+    top: 25%;
+    left: 33%;
+    color: lightgray;
+    
+}
+
+.second{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.picfirst{
+    height: 30%;
+    width: 40%;
+}
+
+.picsecond{
+    height: 30%;
+    width: 40%;
+}
+
+.picthird{
+    height: 30%;
+    width: 40%;
+}
+
+.picfourth{
+    height: 30%;
+    width: 40%;
+}
+
+.picfifth{
+    height: 30%;
+    width: 40%;
+}
+
+.large{
+    font-size: 1.5em;
+}
+
+.cer{
+    padding-top: 3%;
+    font-weight: 600;
+}
+
+ul{
+    margin-left: 3%;
+}
+
+.bgimage{
+    width: 100%;
+    height: 98%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.web_bg{
+    width: 100%;
+    height: 158%;
+    position: absolute;
+    top: 98%;
+    left: 0%;
+    z-index: -1;
+    opacity: 1;
+} 
+
+.graphic_bg{
+    width: 100%;
+    height: 78%;
+    position: absolute;
+    top: 250%;
+    left: 0%;
+    z-index: -1;
+}
+
+.freelancer_bg{
+    width: 100%;
+    height: 78%;
+    position: absolute;
+    top: 325%;
+    left: 0%;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.hacker_bg{
+    width: 100%;
+    height: 82%;
+    position: absolute;
+    top: 403%;
+    left: 0%;
+    z-index: -1;
+}
+
+ .hobby_bg{
+    width: 100%;
+    height: 65%;
+    position: absolute;
+    top: 485%;
+    left: 0%;
+    z-index: -1;
+    opacity: 0.75;
+} 
+
+.profile{
+    width: 5%;
+    height: 7%;
+    position: absolute;
+    top: 1.5%;
+    left: 92%;
+    float: left;
+    background-color: black;
+    border-radius: 40%;
+    border: 3px solid rgb(68, 64, 64);
+}
